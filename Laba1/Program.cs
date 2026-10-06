@@ -11,7 +11,7 @@
             Console.WriteLine($"Сумма: {number1 + number2}");
             Console.WriteLine($"Разность: {number1 - number2}");
             Console.WriteLine($"Произведение: {number1 * number2}");
-            Console.WriteLine($"Среднее арифметическое: {(number1 + number2) / 2}");
+            Console.WriteLine($"Среднее арифметическое: {(number1 + number2) / 2.0}");
         }
     }
 }
